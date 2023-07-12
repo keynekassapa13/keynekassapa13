@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=keynekassapa13&" alt="keynekassapa13" /></p>
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=keynekassapa13&theme=dark&hide_border=true&border_radius=3&date_format=n%2Fj%5B%2FY%5D&mode=weekly)](https://git.io/streak-stats)
 <!--
 **keynekassapa13/keynekassapa13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
