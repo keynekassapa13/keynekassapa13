@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=keynekassapa13&theme=dark&hide_border=true&border_radius=3&date_format=n%2Fj%5B%2FY%5D&mode=weekly)](https://git.io/streak-stats)
+--> My website: [https://](https://keyneoei.dev/)
+
+![keynekassapa13's Stats](https://github-readme-stats.vercel.app/api?username=keynekassapa13&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![keynekassapa13's Streak](https://github-readme-streak-stats.herokuapp.com/?user=keynekassapa13&theme=dark&hide_border=true)
+![keynekassapa13's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=keynekassapa13&theme=dark&show_icons=true&hide_border=true&layout=compact)
+
 <!--
 **keynekassapa13/keynekassapa13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
