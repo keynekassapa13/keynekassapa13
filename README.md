@@ -2,12 +2,6 @@
 
 👩‍💻 My website: [keyneoei.dev](https://keyneoei.dev/)
 
-![keynekassapa13's Stats](https://github-readme-stats.vercel.app/api?username=keynekassapa13&theme=transparent&show_icons=true&hide_border=true&count_private=true&rank_icon=github&card_width=500)
-
-[![keynekassapa13's Streak](https://github-readme-streak-stats.herokuapp.com/?user=keynekassapa13&theme=transparent&mode=weekly)](https://git.io/streak-stats)
-
-![keynekassapa13's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=keynekassapa13&theme=transparent&show_icons=true&hide_border=true&layout=compact&card_width=500)
-
 
 <!--
 **keynekassapa13/keynekassapa13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
